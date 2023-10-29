@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">E-wallet</string>
+    <string name="channel_name"></string>
+    <string name="channel_description"></string>
+<string-array name="support_options">
+    <item>Technical Issue</item>
+    <item>Billing Query</item>
+    <item>General Feedback</item>
+    <item>Other</item>
+
+</string-array>
+</resources>
